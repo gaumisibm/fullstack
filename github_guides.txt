@@ -1,0 +1,23 @@
+To check user logged in git bash
+-> git config --list
+
+How to collaborate using github
+-> Fork the repository from the owner's account
+-> make some changes /clone it to your local and update some change
+-> commit changes and push to your repository
+-> create a pull request and owner will verify if he want to incorporate those change 
+	to his repository or not.
+
+after making changes in local file
+
+git add .
+git commit -m "comments"
+git push
+
+
+cmd commond
+
+To know password for the connected wifi device using wifi
+"netsh wlan show profile name=Home5g key=clear"
+
+ 
