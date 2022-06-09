@@ -18,6 +18,6 @@ git push
 cmd commond
 
 To know password for the connected wifi device using wifi
-"netsh wlan show profile name=Home5g key=clear"
+"netsh wlan show profile name={nameofwificonnected} key=clear"
 
  
